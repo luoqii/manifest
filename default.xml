@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="ssh://git@github.com"
+            />
+  <default revision="master"
+           remote="github"
+           sync-j="4" />
+
+  <project path="android/common_lib" name="luoqii/android_common_lib" />
+  <project path="android/demo_float_window" name="luoqii/demo_android_float_window" />
+</manifest>
