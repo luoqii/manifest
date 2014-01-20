@@ -10,4 +10,9 @@
 
   <project path="android/common_lib" name="luoqii/android_common_lib" />
   <project path="android/demo_float_window" name="luoqii/demo_android_float_window" />
+  <project path="android/support_v4" name="luoqii/android_support_v4" />
+  <project path="android/which_resources" name="luoqii/android_which_resources" />
+  <project path="android/msg_dispatch_framework" name="luoqii/android_msg_dispatch_framework" />
+  <project path="android/bug_demo_and_fix" name="luoqii/android_bug_demo_and_fix" />
 </manifest>
+
