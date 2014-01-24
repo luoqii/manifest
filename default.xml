@@ -14,5 +14,6 @@
   <project path="android/which_resources" name="luoqii/android_which_resources" />
   <project path="android/msg_dispatch_framework" name="luoqii/android_msg_dispatch_framework" />
   <project path="android/bug_demo_and_fix" name="luoqii/android_bug_demo_and_fix" />
+  <project path="android/felix" name="luoqii/felix-on-android" />
 </manifest>
 
